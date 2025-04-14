@@ -14,8 +14,8 @@ def extract_usernames_from_file(filepath):
 
 
 # paths to HTML files
-followers_file = r'C:\Users\deboo\IdeaProjects\Instagram-Following-vs-Followers\src\followers_1.html'
-following_file = r'C:\Users\deboo\IdeaProjects\Instagram-Following-vs-Followers\src\following.html'
+followers_file = 'followers_1.html'
+following_file = 'following.html'
 
 # extract usernames
 followers = extract_usernames_from_file(followers_file)
