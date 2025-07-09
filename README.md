@@ -5,3 +5,5 @@
 3. Do "pip install beautifulsoup4" in the terminal
 4. Replace existing files with your followers and following files
 5. Hit run!
+
+## Will be making this user friendly SOON!
